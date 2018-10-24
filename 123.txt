@@ -6,5 +6,7 @@ sad
 df
 dsaf
 master<<<<<<< HEAD
+master
 =======
+Bygfix
 >>>>>>> BugFix
